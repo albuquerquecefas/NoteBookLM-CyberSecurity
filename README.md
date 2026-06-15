@@ -72,5 +72,5 @@ A partir desse prompt inicial poderia ser desenvolvido diversos outros, como por
     
     Use esses parâmetros para encontrar a melhor metodologia de estudos de cyber security e me retorne um roadmap com os assuntos divididos por importância e tempo de estudo.
 
-    
+Sugiro começar com esse prompt, tendo em vista que a primeira coisa que precisamos "masterizar" é como aprender a aprender, então vendo a metodologia recomendada por suas fontes confiáveis me parece ser um bom começo para isso. 
 
